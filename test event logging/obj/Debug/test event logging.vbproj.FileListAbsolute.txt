@@ -1,0 +1,13 @@
+C:\Users\Seth\AppData\Local\Temporary Projects\test event logging\bin\Debug\test event logging.exe.config
+C:\Users\Seth\Documents\Syncs\WindowsShare\Schooling Resources\Stark State 2016\Summer\Visual Basic\week5 - MidTerm\a\test event logging\test event logging\bin\Debug\test event logging.exe.config
+C:\Users\Seth\Documents\Syncs\WindowsShare\Schooling Resources\Stark State 2016\Summer\Visual Basic\week5 - MidTerm\a\test event logging\test event logging\bin\Debug\test event logging.exe
+C:\Users\Seth\Documents\Syncs\WindowsShare\Schooling Resources\Stark State 2016\Summer\Visual Basic\week5 - MidTerm\a\test event logging\test event logging\bin\Debug\test event logging.pdb
+C:\Users\Seth\Documents\Syncs\WindowsShare\Schooling Resources\Stark State 2016\Summer\Visual Basic\week5 - MidTerm\a\test event logging\test event logging\bin\Debug\test event logging.xml
+C:\Users\Seth\Documents\Syncs\WindowsShare\Schooling Resources\Stark State 2016\Summer\Visual Basic\week5 - MidTerm\a\test event logging\test event logging\obj\Debug\test_event_logging.Form1.resources
+C:\Users\Seth\Documents\Syncs\WindowsShare\Schooling Resources\Stark State 2016\Summer\Visual Basic\week5 - MidTerm\a\test event logging\test event logging\obj\Debug\test_event_logging.Resources.resources
+C:\Users\Seth\Documents\Syncs\WindowsShare\Schooling Resources\Stark State 2016\Summer\Visual Basic\week5 - MidTerm\a\test event logging\test event logging\obj\Debug\test event logging.vbproj.GenerateResource.Cache
+C:\Users\Seth\Documents\Syncs\WindowsShare\Schooling Resources\Stark State 2016\Summer\Visual Basic\week5 - MidTerm\a\test event logging\test event logging\obj\Debug\test event logging.exe
+C:\Users\Seth\Documents\Syncs\WindowsShare\Schooling Resources\Stark State 2016\Summer\Visual Basic\week5 - MidTerm\a\test event logging\test event logging\obj\Debug\test event logging.xml
+C:\Users\Seth\Documents\Syncs\WindowsShare\Schooling Resources\Stark State 2016\Summer\Visual Basic\week5 - MidTerm\a\test event logging\test event logging\obj\Debug\test event logging.pdb
+C:\Users\Seth\Documents\Syncs\WindowsShare\Schooling Resources\Stark State 2016\Summer\Visual Basic\week5 - MidTerm\a\test event logging\test event logging\obj\Debug\test_event_logging.Form2.resources
+C:\Users\Seth\Documents\Syncs\WindowsShare\Schooling Resources\Stark State 2016\Summer\Visual Basic\week5 - MidTerm\a\test event logging\test event logging\obj\Debug\test_event_logging.Form3.resources
